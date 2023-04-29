@@ -1,5 +1,7 @@
-.heading{
+.main{
 	width: 200px;
+}	
+.heading{
 	background: purple;
 	border-left: 5px solid green;
 	padding: 10px;
